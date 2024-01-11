@@ -19,9 +19,37 @@
 
 ![Data Barang](img/3PS.png)
 
+## Tampilan Halaman Tambah Data Barang
+
+![Data Barang](img/4PS.png)
+
+## Tampilan Halaman Ubah Data Barang
+
+![Data Barang](img/5PS.png)
+
 ## Tampilan Halaman Detail Barang
 
 ![Detail Barang](img/6PS.png)
+
+## Tampilan Halaman Data Customer
+
+![Data Barang](img/7PS.png)
+
+## Tampilan Halaman Transaksi Penjualan
+
+![Data Barang](img/8PS.png)
+
+## Tampilan Halaman Tambah Transaksi
+
+![Data Barang](img/9PS.png)
+
+## Tampilan Halaman Tambah Detail Transaksi
+
+![Data Barang](img/10PS.png)
+
+## Tampilan Halaman Cetak Laporan
+
+![Data Barang](img/11PS.png)
 
 ## Tampilan Halaman Laporan Transaksi
 
